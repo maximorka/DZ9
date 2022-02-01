@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c7f3dd8-073b-480a-804d-94ec542ffc8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/ArrayList/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/HashMap/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/HashMap/Noda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/LinkedList/Noda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Queue/Noda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Stack/Noda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/ReaderFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task1/PhoneReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task2/FromTxtToGson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task3/FrequencyWordInFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Draw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shapes/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shapes/Quad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/demodulator/AGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/demodulator/filters/FmFilters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin-installer/src/resources/fxml/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/providers/EthernetDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/providers/SerialDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/providers/TransmitterDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/providers/TransmitterDataProviderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/providers/searcher/SerialPortSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/vrx/VrxDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/vrx/VrxReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rxtxSerial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/main/resources/fxml/transceiver-window.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/main/resources/fxml/transceiver-window.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/audio/AudioDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/audio/AudioDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/convertors/ConvertorInt12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/convertors/ConvertorInt12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/demodulator/Fm2DemodulatorMultChannels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/demodulator/Fm2DemodulatorMultChannels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/Transceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/Transceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/listeners/ReceiverResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/listeners/ReceiverResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/providers/EthernetDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/providers/EthernetDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/providers/SerialDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/providers/SerialDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/ui/receiver/ReceiverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/ui/receiver/ReceiverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/ui/transceiver/TransceiverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/devices/ui/transceiver/TransceiverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/generator/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/generator/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/generator/GeneratorIQServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/generator/GeneratorIQServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/helpers/DemodulatorHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/helpers/DemodulatorHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/demodulator/Fm2DemodulatorMultChannels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/demodulator/Fm2DemodulatorMultChannels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/FsmMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/FsmMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/ReceiveDataMachineState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/ReceiveDataMachineState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/decoder/Kasami.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/decoder/Kasami.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/listeners/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/fsm/listeners/MessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/majoritarian/Majoritarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/majoritarian/Majoritarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/message/MessagesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/message/MessagesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/WinRadioReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/WinRadioReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/lib/AudioStreamCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/lib/AudioStreamCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/lib/G31DDCAPILibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/winradio/lib/G31DDCAPILibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promin/src/ua/com/promin/ui/main/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/ui/main/MainController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24VVle77i6XcvPf7UY0plchWBJ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39425287" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Нова папка\WORK_GORIZONT\asda\radio\radio (2)\radio\radio\DZ9\src\main\java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c7f3dd8-073b-480a-804d-94ec542ffc8d" name="Default Changelist" comment="" />
+      <created>1643715892538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643715892538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3822" y="292" key="SettingsEditor" timestamp="1643716041665">
+      <screen x="1920" y="0" width="3440" height="1400" />
+    </state>
+    <state x="3822" y="292" key="SettingsEditor/0.0.1920.1040/1920.0.3440.1400@1920.0.3440.1400" timestamp="1643716041665" />
+  </component>
+</project>
