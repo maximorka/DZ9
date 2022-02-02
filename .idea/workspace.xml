@@ -31,11 +31,6 @@
       <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Queue/Noda.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Stack/MyStack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DZ8/src/main/java/DZ8/Stack/Noda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/ReaderFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task1/PhoneReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task2/FromTxtToGson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task3/FrequencyWordInFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Canvas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Character.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GrapgRed/src/main/java/comGraph/Draw.java" afterDir="false" />
@@ -60,6 +55,9 @@
       <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/vrx/VrxDevice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../promin/src/ua/com/promin/service/receivers/vrx/VrxReceiver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rxtxSerial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ9/Task3/FrequencyWordInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DZ9/Task3/FrequencyWordInFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dsp-utils/src/main/resources/fxml/transceiver-window.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/main/resources/fxml/transceiver-window.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/audio/AudioDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/audio/AudioDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/convertors/ConvertorInt12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dsp-utils/src/ua/com/dsp/convertors/ConvertorInt12.java" afterDir="false" />
@@ -90,8 +88,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24VVle77i6XcvPf7UY0plchWBJ1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -102,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39425287" />
@@ -110,8 +115,29 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Нова папка\WORK_GORIZONT\asda\radio\radio (2)\radio\radio\DZ9" />
       <recent name="G:\Нова папка\WORK_GORIZONT\asda\radio\radio (2)\radio\radio\DZ9\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FrequencyWordInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ9.Task3.FrequencyWordInFile" />
+      <module name="DZ9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ9.Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FrequencyWordInFile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,8 +162,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1643736575179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1643736575179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1643736575179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1643736575179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1643736575179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1643736575179" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1643736575179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1643736575179" />
     <state x="3822" y="292" key="SettingsEditor" timestamp="1643716041665">
       <screen x="1920" y="0" width="3440" height="1400" />
     </state>

@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.*;
 
+
 public class FrequencyWordInFile extends ReaderFile {
 
     private String getTextFromFile(InputStream inputStream) {
@@ -31,9 +32,25 @@ public class FrequencyWordInFile extends ReaderFile {
 
     private void checkUniqueWords(List list) {
         Set<String> uniqueWords = new HashSet<String>(list);
+        Map<String, Integer> words = new HashMap();
+
+        List<String> tmp = new ArrayList<>();
+
         for (String word : uniqueWords) {
-            System.out.println(word + ": " + Collections.frequency(list, word));
+            // System.out.println(word + ": " + Collections.frequency(list, word));
+            words.put(word, Collections.frequency(list, word));
+
+
         }
+
+        for (int i = uniqueWords.size(); i >= 0; i--) {
+            for (String word : uniqueWords) {
+                int freq = words.get(word);
+                if (freq==i)
+                    System.out.println(word+" "+freq);
+            }
+        }
+
     }
 
     public void getFrequencyWords(String path) {
@@ -42,7 +59,6 @@ public class FrequencyWordInFile extends ReaderFile {
 
     public static void main(String[] args) throws FileNotFoundException {
         FrequencyWordInFile frequencyWordInFile = new FrequencyWordInFile();
-        System.out.println("frequencyWord.getTextFromFile(frequencyWord.read(\"word.txt\")) = " + frequencyWordInFile.getTextFromFile(frequencyWordInFile.read("word.txt")));
         frequencyWordInFile.getFrequencyWords("word.txt");
     }
 }
