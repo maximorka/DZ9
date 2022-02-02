@@ -18,15 +18,15 @@ public class FromTxtToGson extends ReaderFile {
     public List addObjectToList(InputStream inputStream){
         Scanner scanner = new Scanner(inputStream);
         List<User> userList = new ArrayList<>();
-        while (scanner.hasNextLine()) {
-            try {
+        String[] firstLine = scanner.nextLine().split(" ");
+
+        if (!firstLine.equals("")) {
+            while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
                 int index = line.indexOf(" ");
                 String name = line.substring(0, index);
                 String age = line.substring(index + 1, line.length());
                 userList.add(new User(name, Integer.parseInt(age)));
-            } catch (Exception ex) {
-                System.out.println("Not next line");
             }
         }
         return  userList;
